@@ -22,7 +22,7 @@
     'depends': ['mail'],
     "assets": {
         "web.assets_backend": [
-            "change_date_planned_on_purchase/static/src/js/threadActions.js",
+            "whatsapp_extra_menu/static/src/js/threadActions.js",
         ],
     },
 }
